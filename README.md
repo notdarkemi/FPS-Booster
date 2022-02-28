@@ -1,10 +1,10 @@
 # Script
 ```lua
 _G.FPS_Settings = {
-	Graphics = true,
-	Lighting = true,
-	Texture = true,
-	Terrain = true,
+	Graphics =false,
+	Lighting = false,
+	Texture = false,
+	Terrain = false,
 	Effects = false
 }
 
