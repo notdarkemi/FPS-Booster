@@ -1,9 +1,9 @@
 --> Settings
 local Settings = _G.FPS_Settings or {
-	Graphics = true,
-	Lighting = true,
-	Texture = true,
-	Terrain = true,
+	Graphics = false,
+	Lighting = false,
+	Texture = false,
+	Terrain = false,
 	Effects = false
 }
 
