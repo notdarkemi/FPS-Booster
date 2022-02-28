@@ -8,7 +8,7 @@ _G.FPS_Settings = {
 	Effects = false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GRIPPERTV/FPS-Booster/main/Source.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notdarkemi/FPS-Booster/main/README.md", true))()
 ```
 The current settings on the code is the default settings, if the settings from the code are removed it will be replaced by the default settings
 
